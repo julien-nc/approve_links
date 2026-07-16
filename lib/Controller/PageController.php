@@ -21,7 +21,6 @@ use OCP\AppFramework\Http\Attribute\OpenAPI;
 use OCP\AppFramework\Http\Attribute\PublicPage;
 use OCP\AppFramework\Http\Template\PublicTemplateResponse;
 use OCP\AppFramework\Http\TemplateResponse;
-
 use OCP\IL10N;
 use OCP\IRequest;
 use Psr\Log\LoggerInterface;
