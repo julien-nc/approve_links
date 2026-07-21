@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## 1.5.0 – 2026-07-21
+
+### Changed
+
+- Bump max Nextcloud version to 35 and use PHP 8.2 in release action @julien-nc
+- Update dependencies, fix PHP versions in CI workflows, fix OpenAPI action, apply code style fixes and regenerate OpenAPI specs @julien-nc [#62](https://github.com/nextcloud/approve_links/pull/62)
+
 ## 1.4.0 – 2026-03-26
 
 ### Added
